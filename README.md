@@ -1,1 +1,21 @@
-# DreamManor
+梦之庄园[公文包]desktop.ini
+[.ShellClassInfo]
+CLSID={85BBD920-42A0-1069-A2E4-08002B30309D}
+RunWizard=0
+[Briefcase]
+Database=公文包数据库
+[Briefcase.A]
+Database=公文包数据库
+[Briefcase.W]
+Database=+UWxlh1MFZXBjbl6T-
+
+梦之庄园[我的世界梦之庄园客户端]desktop.ini
+[.ShellClassInfo]
+CLSID={85BBD920-42A0-1069-A2E4-08002B30309D}
+RunWizard=0
+[Briefcase]
+Database=公文包数据库
+[Briefcase.A]
+Database=公文包数据库
+[Briefcase.W]
+Database=+UWxlh1MFZXBjbl6T-
